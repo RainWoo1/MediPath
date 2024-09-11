@@ -3,6 +3,8 @@
 MediPath is a C++ mapping software for ambulance drivers to efficiently locate the shortest routes to hospitals and pharmacies, leveraging OpenStreetMap API, GTK, and EZGL libraries.
 Implemented the A* and Multi Dijkstra algorithms to optimize pathfinding using multi-threading, incorporating real-time traffic data using the TomTom API for improved accuracy and response times.
 
+[Check out our prototype using Figma!](https://www.figma.com/design/qTqsYCIitYf9UeCHXm1Det/ECE297-Design-Components?node-id=0-1&t=14Bk0oDsFigu4K3j-1)
+
 <p align=center>
   <img src="/main_screen.png" width="800" height=auto align="center">
 </p>
